@@ -84,6 +84,6 @@ if n > 1:
             exit() 
 
 else:
-    print("The value of n must be greater than 1") # Executes if input is not a positive integer
+    print("\nThe value of n must be greater than 1") # Executes if input is not a positive integer
     exit() 
 
