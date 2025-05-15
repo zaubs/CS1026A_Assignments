@@ -28,7 +28,7 @@ n_count = 0 # Will be used to keep track of the total numbers the conjecture gen
 
 total = odd + even # All numbers obtained from the sequence in one list
 
-if n > 0:
+if n > 1:
     while n >= 1: # Performing the Sequence in the following loop
         n = int(n)
 
