@@ -87,30 +87,3 @@ else:
     print("The value of n must be greater than 1") # Executes if input is not a positive integer
     exit() 
 
-
-
-
-
-
-
-
-
-### Extra Code
-
-# for i in range(2, int(n)-1):
-        #     #print(f"{i} hi!!")
-        #     if n % i == 1:
-        #         print(f"{n} is prime")
-        
-        # for n in range[2, n-1]:
-        #     if not(((n % 2) == 0) and ((n % n -1) == 0)):
-        #         print(f"{n} is a prime number")
-        #         prime.append(n)
-
-
-# if (n % i != 0):
-                #     print(f"{n} % {i}  has an integer remainder not equal to 0")
-
-# print(f"{n} % {i}  has an integer remainder equal to 0")
-                    # print(f"{n} is not prime")
-
